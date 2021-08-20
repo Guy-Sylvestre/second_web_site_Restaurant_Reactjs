@@ -1,0 +1,7 @@
+delete index.css, logo.svg, App.css
+yarn add styled-components
+yarn add react-router-dom
+yarn add react-icons or sudo npm install react-icons --save
+
+
+49min
