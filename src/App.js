@@ -13,9 +13,9 @@ function App() {
     <Router>
       <GlobalSytyle />
       <Hero />
-      <Products heading='Choose your favorite' data={productData} />
+      <Products heading='Choisir ton favorie' data={productData} />
       <Feature />
-      <Products heading='Swwet Treats for You' data={productDataTwo} />
+      <Products heading='Des friandises pour vous' data={productDataTwo} />
     </Router>
   );
 }

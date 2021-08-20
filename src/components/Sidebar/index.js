@@ -10,10 +10,10 @@ const Sidebar = ({isOpen, toogle}) => {
             <SidebarMenu>
                 <SidebarLink to="/">Pizzas</SidebarLink>
                 <SidebarLink to="/">Desserts</SidebarLink>
-                <SidebarLink to="/">Full Menu</SidebarLink>
+                <SidebarLink to="/">Menu complet</SidebarLink>
             </SidebarMenu>
             <SidebarWrap>
-                <SidebarRoute to="/">Order</SidebarRoute>
+                <SidebarRoute to="/">commander</SidebarRoute>
             </SidebarWrap>
         </SidebarContainer>
     );
